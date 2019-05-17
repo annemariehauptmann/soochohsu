@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://heeziushie.veryaustin.com/sitemap.xml
